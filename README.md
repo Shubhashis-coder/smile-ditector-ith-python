@@ -1,2 +1,2 @@
-# smile-ditector-ith-python
+# smile-ditector-with-python
 open cv programming
